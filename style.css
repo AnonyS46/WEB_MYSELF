@@ -66,6 +66,9 @@
     justify-content: space-around;
     align-items: center;
 }
+.for-job {
+    text-align: center;
+}
 .for-job h3{
     font-size: 2rem;
     color: var(--text-color);
