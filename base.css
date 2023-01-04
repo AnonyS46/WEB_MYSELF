@@ -18,4 +18,5 @@ html{
     margin: 0 auto;
     background-color: var(--bg-color);
     border-radius: 3px;
+    height: 100vh;
 }
